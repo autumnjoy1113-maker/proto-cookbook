@@ -25,7 +25,7 @@ By completing this cookbook, you’ll gain skills in:
 
 ## Authors
 
-[Autumn Johnson](https://github.com/first-author1)
+[Autumn Johnson](https://github.com/autumnjoy1113-maker)
 
 
 ## Structure
