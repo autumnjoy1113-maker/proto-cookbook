@@ -9,7 +9,7 @@ tags:
     - numpy 
     - matplotlib
     - pandas
-    - cartopy.crs
-    - cartopy.feature
+    - cartopy
     - cftime
+    - s3fs
 
