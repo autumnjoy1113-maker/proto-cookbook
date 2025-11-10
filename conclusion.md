@@ -1,0 +1,9 @@
+# Conclusion
+
+This project provides a two-part exploration of Alabama’s precipitation patterns across different timescales. Each notebook offers a window into the state’s hydroclimate—one grounded in modern atmospheric observations, the other in paleoclimate reconstruction.
+
+In the ERA5 reanalysis notebook, we examined monthly mean precipitation over Alabama from the mid-20th century to the present. The analysis revealed the region’s characteristic seasonal rainfall cycle, with peaks in late winter and early summer. Visualizations of interannual variability highlight how large-scale atmospheric circulation and ocean–atmosphere patterns influence rainfall across the southeastern United States.
+
+In the Last Millennium Reanalysis (LMR) notebook, we extended this perspective back nearly 2,000 years. By summarizing reconstructed precipitation by century, the notebook illustrates how Alabama’s rainfall has fluctuated over time, reflecting natural climate variability. The century-scale boxplots and rolling means capture a record of alternating wet and dry intervals that shaped the region’s environmental history.
+
+Together, these notebooks demonstrate how modern reanalysis and paleoclimate data complement each other in understanding long-term regional climate behavior. While each dataset serves a different purpose, both reveal Alabama as a consistently humid region influenced by larger climate dynamics. This project establishes a foundation for future work that could more directly link reconstructed and observed records, enhancing our ability to interpret modern change in the context of the past.

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this cookbook, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: Johnson
+    given-names: Autumn Joy
+    orcid: https://orcid.org/0009-0001-3342-5975 # optional
+    website: https://github.com/autumnjoy1113-maker # optional
+    affiliation: University at Albany (State University of New York) # optional
+  - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
+title: "ERA5 and Last Millenium Reanalysis Data Precipitation Visualization Cookbook"
+abstract: "A cookbook to interactively explore and visualize ERA-5 and LMR precipidation data."

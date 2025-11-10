@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+extends:
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
+project:
+  title: Prototype Project Repo
+  github: https://github.com/projectpythia/proto-cookbook
+  authors:
+    - name: Autumn Johnson
+  copyright: '2025'
+  toc:
+    - file: README.md
+    - title: Preamble
+      children:
+        - file: notebooks/how-to-cite.md 
+    - title: Visualization Notebooks
+      children:
+        - file: notebooks/notebook1.ipynb
+        - file: notebooks/notebook2.ipynb
+jupyter:
+      binder:
+        repo: projectpythia/cookbook-template

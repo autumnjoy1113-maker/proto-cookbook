@@ -1,0 +1,15 @@
+thumbnail: thumbnail.png
+tags:
+  domains: 
+    - precipitation
+  packages:
+    - jupyterlab
+    - zarr
+    - xarray
+    - numpy 
+    - matplotlib
+    - pandas
+    - cartopy.crs
+    - cartopy.feature
+    - cftime
+

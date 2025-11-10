@@ -1,0 +1,13 @@
+name: cookbook-dev
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - zarr
+  - xarray
+  - numpy 
+  - matplotlib
+  - pandas
+  - cartopy.crs
+  - cartopy.feature
+  - cftime
