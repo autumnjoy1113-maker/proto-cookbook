@@ -1,4 +1,4 @@
-# Autumn's Prototype Cookbook Using ERA5 and Last Millenium Reanalysis Data to Visulaize Precipitation In Alabama
+# Autumn's Prototype Cookbook Using ERA5 and Last Millenium Reanalysis Data to Visualize Precipitation In Alabama
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 

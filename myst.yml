@@ -17,6 +17,9 @@ project:
       children:
         - file: notebooks/notebook1.ipynb
         - file: notebooks/notebook2.ipynb
+    - title: Conclusion
+      children:
+        - file: conclusion.md
 jupyter:
       binder:
         repo: projectpythia/cookbook-template
